@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Connor Grimes
 Jordan Teasdale
+=======
+Connor Grimes 
+Jeremy Torres
+Briana Buttone
+>>>>>>> 5fbae8aad2af2ac9808d8dc20550aceca4475806
